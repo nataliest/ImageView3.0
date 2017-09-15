@@ -7,3 +7,13 @@ Plug-in for DAWs written in C++ using JUCE ImageView is an audio plugin that all
 The plug-in displays JPG, JPEG, PNG, and GIF images.
 
 *- the plug-in will work with other types of pictures as well; you can attach pictures of cats, puppies, or your favorite Home Depot aisles
+
+<h2>Load the plug-n in your DAW</h2>
+<img src="Screen Shot 2017-09-14 at 22.15.46.png" alt="imageview">
+<h2>Choose or create new folder</h2>
+<img src="Screen Shot 2017-09-14 at 22.16.04.png" alt="imageview2">
+<img src="Screen Shot 2017-09-14 at 22.16.11.png" alt="imageview3">
+<h2>View pictures and add comments</h2>
+<img src="Screen Shot 2017-09-14 at 22.16.18.png" alt="imageview4">
+<h2>Resize and enjoy</h2>
+<img src="Screen Shot 2017-09-14 at 22.16.31.png" alt="imageview5">
